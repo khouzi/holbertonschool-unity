@@ -297,7 +297,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1088094268
 PrefabInstance:
@@ -306,6 +306,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8432106071881462125, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -379,6 +383,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.8
+      objectReference: {fileID: 0}
     - target: {fileID: 8432106071881462125, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -452,6 +468,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.9
+      objectReference: {fileID: 0}
     - target: {fileID: 8432106071881462125, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -513,6 +545,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.77
+      objectReference: {fileID: 0}
     - target: {fileID: 8432106071881462125, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -681,6 +725,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007083, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.36
+      objectReference: {fileID: 0}
     - target: {fileID: 8432106071881462125, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
       propertyPath: m_RootOrder
       value: 4

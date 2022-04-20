@@ -517,6 +517,10 @@ PrefabInstance:
       value: White Ball
       objectReference: {fileID: 0}
     - target: {fileID: 7670938752561007095, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7670938752561007095, guid: 8fdcea342c02f6c4093f0af278cca405, type: 3}
       propertyPath: m_TagString
       value: Obstacles
       objectReference: {fileID: 0}

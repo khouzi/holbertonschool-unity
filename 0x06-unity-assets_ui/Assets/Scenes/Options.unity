@@ -1274,7 +1274,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1272041601}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 19509b65b3582254ea667a5a11991e56, type: 3}
+  m_Script: {fileID: 11500000, guid: aa87b841647b2a6449bd7e3077bba819, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1282694962
@@ -2598,7 +2598,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2323145513311425152, guid: bd0d00141a178b64387322d5f9e0ee25, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: MainMenu, Assembly-CSharp
+      value: OptionsMenu, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 2323145513311425152, guid: bd0d00141a178b64387322d5f9e0ee25, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName

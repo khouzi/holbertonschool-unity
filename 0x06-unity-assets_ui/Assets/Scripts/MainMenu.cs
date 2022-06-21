@@ -12,6 +12,12 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(level, LoadSceneMode.Single);
     }
 
+    public void QuitGame()
+    {
+        Debug.Log("Exited");
+        Application.Quit();
+    }
+
     public void Options()
     {
         SceneManager.LoadScene(4, LoadSceneMode.Single);

@@ -27,17 +27,19 @@ public class PauseMenu : MonoBehaviour
 
     public void Restart()
     {
-        SceneManager.LoadScene(0, LoadSceneMode.Single);
+        Scene currentLevel = SceneManager.GetActiveScene();
+        Resume();
+        SceneManager.LoadScene(currentLevel.buildIndex);
     }
 
     public void MainMenu()
     {
-        SceneManager.LoadScene(3, LoadSceneMode.Single);
+        SceneManager.LoadScene(3);
     }
 
     public void Options()
     {
-        SceneManager.LoadScene(4, LoadSceneMode.Single);
+        SceneManager.LoadScene(4);
     }
 
     private void Update()

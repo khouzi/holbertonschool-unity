@@ -9,7 +9,7 @@ public class MainMenu : MonoBehaviour
 
     public void LevelSelect(int level)
     {
-        SceneManager.LoadScene(level, LoadSceneMode.Single);
+        SceneManager.LoadScene(level);
     }
 
     public void QuitGame()
@@ -20,12 +20,8 @@ public class MainMenu : MonoBehaviour
 
     public void Options()
     {
-        SceneManager.LoadScene(4, LoadSceneMode.Single);
+        SceneManager.LoadScene(4);
     }
 
 
-    public void Back()
-    {
-        SceneManager.LoadScene(3, LoadSceneMode.Single);
-    }
 }

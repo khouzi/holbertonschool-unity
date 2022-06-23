@@ -6,6 +6,7 @@ using TMPro;
 public class Timer : MonoBehaviour
 {
     public TextMeshProUGUI my_text;
+    public Canvas aaa;
     float second = 0.0f;
     float minute = 0;
 
